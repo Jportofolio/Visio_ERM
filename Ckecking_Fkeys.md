@@ -1,4 +1,4 @@
-#Scipts for Ckecking Foreign
+#Scripts for Ckecking The Foreign Key on MYSQL db_schema
 
 This Script write a statement to retrieve information
 about tables and its constraints
