@@ -1,6 +1,6 @@
 #Scipts for Ckecking Foreign
 
-### This Script write a statement to retrieve information
+This Script write a statement to retrieve information
 about tables and its constraints
 
 >SELECT * FROM information_Schema.TABLE_CONSTRAINTS
